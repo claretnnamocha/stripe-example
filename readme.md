@@ -20,4 +20,4 @@
         }
 
 ## Images
-![img1](/screenshot.png)
+![img1](/screenshot.PNG)
