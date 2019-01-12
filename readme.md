@@ -17,4 +17,4 @@ PS dont forget the following:
 	6. add the next lines to your css file
 	.stripe-button-el{
           display: none !important;
-        }{\rtf1}
+        }
