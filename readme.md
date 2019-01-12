@@ -19,5 +19,5 @@
           display: none !important;
         }
 
-## Images
+## Screenhots
 ![img1](/screenshot.PNG)
