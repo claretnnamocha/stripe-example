@@ -7,14 +7,7 @@
 
 
 	4. download stripe-php-master api library folder from https://github.com/stripe/stripe-php
-
-	5. directory structure 
-		-index.html
-		-payment.php
-		-stripe-php-master (folder)
-
-
-	6. add the next lines to your css file
+	5. add the next lines to your css file
 	.stripe-button-el{
           display: none !important;
         }
