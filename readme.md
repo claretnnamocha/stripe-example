@@ -1,4 +1,4 @@
-PS dont forget the following:
+## PS dont forget the following:
 
 	0. modify the p_id paramters to suit your use case
 	1. your-publishable-key in index.html file (required)
@@ -17,4 +17,7 @@ PS dont forget the following:
 	6. add the next lines to your css file
 	.stripe-button-el{
           display: none !important;
-        }{\rtf1}
+        }
+
+## Images
+![img1](/screenshot.png)
