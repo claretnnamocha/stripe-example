@@ -8,7 +8,7 @@
 	$token = $_POST['stripeToken'];
 	$email = $_POST["stripeEmail"];
 
-	$product_id = $_GET['p_id']
+	$product_id = $_GET['p_id'];
 
 	/**
 		search the table int database using the product_id obtain the :
@@ -28,7 +28,5 @@
 		-send confirmaion email to $email
 		-record transaction in database
 	*/
-
-
 
 	echo 'Success! You have been charged N' . ($price);
