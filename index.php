@@ -46,9 +46,9 @@ $products = [
                                         {
                                         amount: <?php print($product['price'])?>,
                                         publicKey: "11777d3d304a6115fdce31463a15805bd400bcf6cac573c84a7b4dc49135fbc7aed88cc97cef6c8a5f7fbcadfa89aab7",
-                                        successUrl: "https://my-success-url.com",
-                                        failureUrl: "http://my-failure-url.com",
-                                        cancelUrl: "http://my-cancel-url.com",
+                                        successUrl: "https://wayatestshop.herokuapp.com/",
+                                        failureUrl: "https://wayatestshop.herokuapp.com/",
+                                        cancelUrl: "https://wayatestshop.herokuapp.com/",
                                         },
                                         "#waya-btn-<?php print($product['id'])?>"
                                     );
