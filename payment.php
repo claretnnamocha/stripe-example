@@ -11,9 +11,9 @@
 	$product_id = $_GET['p_id'];
 
 	/**
-		search the table int database using the product_id obtain the :
-		$price
-		$description
+	* search the table int database using the product_id obtain the :
+	* price
+	* description
 	*/
 
 	// Charge the user's card:
